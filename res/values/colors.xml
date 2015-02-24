@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<color name="colorStepper1_1">#366ae0</color>
+   	<color name="colorStepper1_2">#3abfcb</color>
+   	<color name="colorStepper1_3">#3a89cb</color>
+   	
+   	
+<!--    	[colorStepper addColor:[UIColor colorWithHexString:@"#3a53cb"] withSteps:24]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#3a1dcb"] withSteps:36]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#6c1acb"] withSteps:24]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#a21acb"] withSteps:20]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#d81a6a"] withSteps:12]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#ee1aaa"] withSteps:15]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#ee1a74"] withSteps:30]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#ee1a1e"] withSteps:40]; -->
+
+
+<!--     [colorStepper addColor:[UIColor colorWithHexString:@"#ed4a15"] withSteps:30]; -->
+
+
+    
+<!--     colorStepper2 = [[ColorStepper alloc] initWithBaseColor:[UIColor colorWithHexString:@"#3785c8"]]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#3aa2c8"] withSteps:38]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#3a6cc8"] withSteps:24]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#3a39c8"] withSteps:24]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#5620c8"] withSteps:36]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#8a20c8"] withSteps:24]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#c320c8"] withSteps:20]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#f05454"] withSteps:15]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#eb2086"] withSteps:15]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#eb2050"] withSteps:30]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#eb3a17"] withSteps:40]; -->
+
+
+<!--     [colorStepper2 addColor:[UIColor colorWithHexString:@"#ed152f"] withSteps:30]; -->
+
+
+    
+<!--     colorStepper3 = [[ColorStepper alloc] initWithBaseColor:[UIColor colorWithHexString:@"#18c8a5"]]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#3a6ec8"] withSteps:38]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#3a39c8"] withSteps:24]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#622dc8"] withSteps:24]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#982dc8"] withSteps:36]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#cd2dc8"] withSteps:24]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#eb2db0"] withSteps:20]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#eb2d5a"] withSteps:15]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#eb2d46"] withSteps:15]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#eb3217"] withSteps:30]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#eb8817"] withSteps:40]; -->
+
+
+<!--     [colorStepper3 addColor:[UIColor colorWithHexString:@"#f01457"] withSteps:30]; -->
+   	
+   	
+</resources>
